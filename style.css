@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+#jan1{
+    height: 75px;
+    width: 75px;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+
+.bank{
+    height: auto;
+    width: 400px;
+}
+
+.depoForm{
+    text-align: center;
+    height: 100vh;
+    width: 000px;
+    /* border: 1px solid red; */
+    position: relative;
+    left: 80px;
+    top: 210px;
+    
+}
+.wForm{
+    text-align: center;
+    height:100vh;
+    width: 000px;
+    /* border: 1px solid red; */
+    position: relative;
+    left: 80px;
+    top: 210px;
+}
+
+.kk{}
+
+button{
+    height: 42px;
+    width: 300px;
+    text-align: center;
+    border-radius: 11px;
+    color: aliceblue;
+    
+    background-color: rgb(60,119,203);
+}
+#accountForm{
+    text-align: center;
+    height: 100vh;
+    /* border: 1px solid red; */
+    position: relative;
+    left: 80px;
+    top: 210px;
+}
+#h34{
+    width: 400px;
+}
+
+#checKBlnce{
+    position: relative;
+    left: 80px;
+    margin-bottom: 300px;
+
+}
+
+#withdrawForm{
+    position: relative;
+    left: 80px;
+    margin-bottom: 500px;
+    margin-top: 500px;
+}
+
+.inp{
+    background-color: rgb(101,185,234);
+    color: aliceblue;
+    border-radius: 10px;
+    width: 400px;
+    height: 52px;
+    text-align: center;
+}
+
+.head{
+    font-size: 30px;
+    text-align: center;
+    display: inline-block;
+    color:rgb(4, 4, 75);
+    position: fixed;
+    top: 17px;
+    left: 55px;
+
+}
+
+#logo{
+    height: 50px;
+    display: inline-block;
+    position: fixed;
+}
+
+#openAcc{
+    color: aliceblue;
+    font-size: 40px;
+    position: relative;
+    bottom: 30px;
+}
